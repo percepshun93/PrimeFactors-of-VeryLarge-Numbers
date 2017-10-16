@@ -1,5 +1,5 @@
 # PrimeFactors-of-VeryLarge-Numbers
-Python 3 code for finding the all the prime factors of numbers containing 0-25 digits.
+Python 3 code for finding the all the prime factors of numbers containing 0-15 digits.
 
 Define a function to check if a number is prime or not - isPrime(n)
 Define a function to find the factors of a number which are also prime - isPrimeFact(n)
